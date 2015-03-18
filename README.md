@@ -1,7 +1,7 @@
 #Set up a Virtual Cluster With Apache Hive.
 
 The end result of these instructions will be an 3-node virtual cluster with Hive.
-###Note: These instructions, and associated scripts, are a work in progress.
+###Note: These instructions, and associated scripts, are a work in progress. They are meant to get Hive up and running quickly. There is no guarantees regarding the correctness of the configurations, nor their optimality.
 
 ##Instructions
 1. Create an *HadoopCluster* per the instructions in [EZ-Hadoop](https://github.com/PaulTomchik/EZ-Hadoop)
